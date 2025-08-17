@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+*.iml
+
+# Maven
+target/
+.mvn/
+
+# Outros
+*.log
